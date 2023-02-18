@@ -27,3 +27,17 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - Figma, Codecademy Nov 2022  [Certificat](https://www.codecademy.com/profiles/9120815233/certificates/4ccef8d532484ea2aeec3b3b3dbb4f9c)
 - Postman, Stepik,  Feb 2023 [Certificat](https://stepik.org/cert/1911037)
 - Web Testing, ITVDN, Nov 2022 [Certificat](https://drive.google.com/file/d/19uLWRNrAp3RHkHIUv-J4zHqrl4tR9IwV/view?usp=sharing)
+
+# Examples of my work
+## Postman
+- [examples of completed works here](https://drive.google.com/drive/folders/1OU6vZwalojXwBAneGMGEk9K8oWtTezOz?usp=sharing)
+## SOAPUI
+- [examples of completed works here](https://docs.google.com/document/d/1PZ9GoKyYh4U7H-4N3HYW0yjHq8RrbdrJp4eTLcUV77o/edit?usp=sharing)
+## SQL
+- [examples of completed works here](https://docs.google.com/document/d/16MdWs4UGvxGpx_8UpbqmVcJRoRefMPUsyQu7KkaZlVg/edit?usp=share_link)
+## Fidler
+- [examples of completed works here](https://docs.google.com/document/d/19N7Fz6fjfThLNUKE4jKNRfbTX3dbOgEj/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+## Pairwise Testing (PICT)
+- [examples of completed works here](https://docs.google.com/document/d/1ejC067IOWShW1izAD5zMlWfnLomAPRJOnuY3i7F5OFA/edit?usp=sharing)
+## Selenium IDE 
+- [examples of completed works here](https://docs.google.com/document/d/1yrCMFL3wVUO2y2aQdHd63XdxQFWxfzg9/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
