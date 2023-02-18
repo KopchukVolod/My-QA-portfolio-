@@ -47,3 +47,6 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 ## Checklist 
 -  [checklist for testing an API that adds an attribute to a user](https://docs.google.com/spreadsheets/d/1M_rABH0rUtja-Agq49fJqMmGpZtmDgc-/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 -  [Skrin from Postman for this cheklist](https://docs.google.com/document/d/1dj0H8vuq8QScfNMnrJWfMPchYpZR9Jr7xxeTeg5xuIg/edit?usp=sharing)
+## Python
+- [coding here](https://github.com/KopchukVolod?tab=repositories)
+- studying Selenium WebDriver [example environment settings here](https://docs.google.com/document/d/14PIeL63kzK3zGQyxRyMk-fnuUT8h4dohFv3FbB6MX_s/edit?usp=sharing)
