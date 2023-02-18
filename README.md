@@ -13,7 +13,7 @@ Drawing on their experience in law and finance, I'm quickly discovered that many
 Today, I'm  is a  skilled and motivated software tester with a passion for delivering high-quality work and collaborating with clients and stakeholders to achieve common goals. I'm are excited to continue growing and developing their skills in this exciting and dynamic industry, and to help clients and stakeholders achieve success in their software development projects.
 
 # Courses 
-- Introduction to Software Testing, University of Minnesota, Coursera, July 2022 (Certificat)[https://drive.google.com/file/d/1Tvla5WRXl6X1vZX0AdujfccmC-1cDvcM/view?usp=sharing]
+- Introduction to Software Testing, University of Minnesota, Coursera, July 2022 [Certificat] (https://drive.google.com/file/d/1Tvla5WRXl6X1vZX0AdujfccmC-1cDvcM/view?usp=sharing)
 - Basic course EPAM for beginners "IT Fundamentals", July 2022 Certificat
 - Tommy University (Quality Assurance/Quality Control Engineer), July 2022 Certificat
 - Learn the Command Line Course Certificat, Codecademy
