@@ -44,3 +44,6 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - [examples of completed works here](https://docs.google.com/document/d/1ejC067IOWShW1izAD5zMlWfnLomAPRJOnuY3i7F5OFA/edit?usp=sharing)
 ## Selenium IDE 
 - [examples of completed works here](https://docs.google.com/document/d/1yrCMFL3wVUO2y2aQdHd63XdxQFWxfzg9/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+## Checklist 
+-  [checklist for testing an API that adds an attribute to a user](https://docs.google.com/spreadsheets/d/1M_rABH0rUtja-Agq49fJqMmGpZtmDgc-/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+-  [Skrin from Postman for this cheklist](https://docs.google.com/document/d/1dj0H8vuq8QScfNMnrJWfMPchYpZR9Jr7xxeTeg5xuIg/edit?usp=sharing)
