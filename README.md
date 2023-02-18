@@ -37,7 +37,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 ## SOAPUI
 - [examples of completed works here](https://docs.google.com/document/d/1PZ9GoKyYh4U7H-4N3HYW0yjHq8RrbdrJp4eTLcUV77o/edit?usp=sharing)
 ## SQL
-- [examples of completed works here](https://docs.google.com/document/d/16MdWs4UGvxGpx_8UpbqmVcJRoRefMPUsyQu7KkaZlVg/edit?usp=share_link)
+- [examples of completed works here](https://drive.google.com/drive/folders/1IJU8rOQdiHo11RyeEEN1s6I5rp3_laD-?usp=sharing)
 ## Fidler
 - [examples of completed works here](https://docs.google.com/document/d/19N7Fz6fjfThLNUKE4jKNRfbTX3dbOgEj/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 ## Pairwise Testing (PICT)
