@@ -50,3 +50,5 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 ## Python
 - [coding here](https://github.com/KopchukVolod?tab=repositories)
 - studying Selenium WebDriver [example environment settings here](https://docs.google.com/document/d/14PIeL63kzK3zGQyxRyMk-fnuUT8h4dohFv3FbB6MX_s/edit?usp=sharing)
+## Blockchain
+- [examples of completed works here](https://drive.google.com/drive/folders/1Ggv-3A1-8o1DBfMSnrd0vgisP3cCk7ui?usp=sharing)
