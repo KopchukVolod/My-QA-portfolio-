@@ -1,6 +1,8 @@
 # My-QA-engineer-portfolio
 [Linkedin](https://www.linkedin.com/in/volodymyr-kopchuk-780620242/)
+
 This repository contains all my practical works, which gave me experience and practical skills for work
+
 # My story
 I am a results-driven individual with a passion for problem-solving and attention to detail. With a background in law and finance, I have honed my analytical and critical thinking skills, which I believe will be valuable in the field of software testing. I am a fast learner and enjoy staying up-to-date with the latest technology and industry trends. I have excellent communication skills and am comfortable working in a team environment. I am excited to apply my skills and experience to a new and challenging role as a software tester.
 
