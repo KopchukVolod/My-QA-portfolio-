@@ -11,7 +11,7 @@ As a young professional, I'm had always been interested in law and finance. Afte
 
 Despite experience in this field, I'm had felt a desire to explore other career options and discovered a passion for technology and software. Eager to learn more about this exciting and dynamic industry, I'm began exploring the field of software testing.
 
-Drawing on  experience in law and finance, I'm quickly discovered that many of the skills they had developed in their previous roles were highly relevant to the field of software testing. With a talent for analyzing complex information and identifying potential risks, i can be themselves as a valuable member of the software testing team.
+Drawing on  experience in law and finance, I'm quickly discovered that many of the skills  had developed in their previous roles were highly relevant to the field of software testing. With a talent for analyzing complex information and identifying potential risks, i can be themselves as a valuable member of the software testing team.
 
 Today, I'm  is a  skilled and motivated software tester with a passion for delivering high-quality work and collaborating with clients and stakeholders to achieve common goals. I'm are excited to continue growing and developing their skills in this exciting and dynamic industry, and to help clients and stakeholders achieve success in their software development projects.
 
