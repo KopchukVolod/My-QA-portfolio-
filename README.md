@@ -13,7 +13,7 @@ Despite experience in this field, I'm had felt a desire to explore other career 
 
 Drawing on  experience in law and finance, I'm quickly discovered that many of the skills  had developed in  previous roles were highly relevant to the field of software testing. With a talent for analyzing complex information and identifying potential risks, i can be themselves as a valuable member of the software testing team.
 
-Today, I'm  is a  skilled and motivated software tester with a passion for delivering high-quality work and collaborating with clients and stakeholders to achieve common goals. I'm are excited to continue growing and developing their skills in this exciting and dynamic industry, and to help clients and stakeholders achieve success in their software development projects.
+Today, I'm  is a  skilled and motivated software tester with a passion for delivering high-quality work and collaborating with clients and stakeholders to achieve common goals. I'm are excited to continue growing and developing  skills in this exciting and dynamic industry, and to help clients and stakeholders achieve success in  software development projects.
 
 # Courses 
 - Introduction to Software Testing, University of Minnesota, Coursera, July 2022 [Certificat](https://drive.google.com/file/d/1Tvla5WRXl6X1vZX0AdujfccmC-1cDvcM/view?usp=sharing)
