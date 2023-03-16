@@ -30,7 +30,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - Figma, Codecademy Nov 2022  [Certificat](https://www.codecademy.com/profiles/9120815233/certificates/4ccef8d532484ea2aeec3b3b3dbb4f9c)
 - Postman, Stepik,  Feb 2023 [Certificat](https://stepik.org/cert/1911037)
 - Web Testing, ITVDN, Nov 2022 [Certificat](https://drive.google.com/file/d/19uLWRNrAp3RHkHIUv-J4zHqrl4tR9IwV/view?usp=sharing)
-- Introduction to DevOps, Codecademy, Mar 2023
+- Introduction to DevOps, Codecademy, Mar 2023 [Certificat](https://drive.google.com/file/d/1upS6NEwRhaibnRKy-Nu8WVQVpU9pp8xz/view?usp=sharing)
 
 # Examples of my work
 ## Postman
