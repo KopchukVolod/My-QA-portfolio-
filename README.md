@@ -56,3 +56,5 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - [examples of completed works here](https://drive.google.com/drive/folders/1Ggv-3A1-8o1DBfMSnrd0vgisP3cCk7ui?usp=sharing)
 ## Bash
 - [scripts here](https://github.com/KopchukVolod/Bash/tree/main)
+## Linux CLI
+- [here](https://github.com/KopchukVolod/Linux-CLI)
