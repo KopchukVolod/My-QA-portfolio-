@@ -31,6 +31,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - Postman, Stepik,  Feb 2023 [Certificat](https://stepik.org/cert/1911037)
 - Web Testing, ITVDN, Nov 2022 [Certificat](https://drive.google.com/file/d/19uLWRNrAp3RHkHIUv-J4zHqrl4tR9IwV/view?usp=sharing)
 - Introduction to DevOps, Codecademy, Mar 2023 [Certificat](https://drive.google.com/file/d/1upS6NEwRhaibnRKy-Nu8WVQVpU9pp8xz/view?usp=sharing)
+- AWS Cloud Practitioner Essentials [Certificat](https://drive.google.com/file/d/1dwXt1DFCTRPvl9T1wdOg6yNn2T0zh9r4/view)
 
 # Examples of my work
 ## Postman
@@ -58,3 +59,5 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - [scripts here](https://github.com/KopchukVolod/Bash/tree/main)
 ## Linux CLI
 - [here](https://github.com/KopchukVolod/Linux-CLI)
+
+
