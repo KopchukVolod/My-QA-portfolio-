@@ -37,6 +37,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 ## Test Artifacts
 - [check list #1](https://docs.google.com/spreadsheets/d/1ie_6ufwqfQMJP0OCbtPeIj2imBIXPSMC/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 - [check list #2](https://docs.google.com/spreadsheets/d/1PW4cj2cDmHFTgF9AQEjnN-ZwCsTwe0Js/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+- [check list #3](https://docs.google.com/spreadsheets/d/1SG64cIsq_BR6HaK5VpqVyqu3To_V0ixB34oCh2AGte4/edit?usp=sharing)
 - [bug report #1](https://docs.google.com/spreadsheets/d/1PV_LZf7yUnMSo5rvuSBelwgzZBnbulrS/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 - [bug report #2](https://docs.google.com/spreadsheets/d/1zjIr42huj3I45A43tAaDD5jCkHKf41XO/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 
