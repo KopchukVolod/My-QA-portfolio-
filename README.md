@@ -21,6 +21,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - Tommy University (Quality Assurance/Quality Control Engineer), July 2022 [Certificat](https://drive.google.com/file/d/1WFsgBwZ4GSkhGV89dyjn4FVLUQKbqY4t/view?usp=sharing)
 - Learn the Command Line Course Codecademy, Dec  2022 [Certificat](https://www.codecademy.com/profiles/9120815233/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
 - SQL Course, Codecademy, Sep 2022 [Certificat](https://www.codecademy.com/profiles/9120815233/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+- Intermediate  SQL [Certificat](https://www.datacamp.com/completed/statement-of-accomplishment/course/edd03000d79ca35a9ce317bb63a107acba0d1ad9)
 - Python 3 Course, Codecademy,  Sep 2022  [Certificat](https://drive.google.com/file/d/12gccgtpiM0eeX57VjVkatEyOQuczBPAH/view?usp=sharing)
 - Git & GitHub Course, Codecademy, Oct 2022 [Certificat](https://drive.google.com/file/d/1S6xhflls59JcrfesPtecMagan36fFpXm/view?usp=sharing)
 - EPAM, Software Testing Introduction, Course Author: Svyatoslav Kulikov
@@ -32,6 +33,17 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - Web Testing, ITVDN, Nov 2022 [Certificat](https://drive.google.com/file/d/19uLWRNrAp3RHkHIUv-J4zHqrl4tR9IwV/view?usp=sharing)
 - Introduction to DevOps, Codecademy, Mar 2023 [Certificat](https://drive.google.com/file/d/1upS6NEwRhaibnRKy-Nu8WVQVpU9pp8xz/view?usp=sharing)
 - AWS Cloud Practitioner Essentials [Certificat](https://drive.google.com/file/d/1dwXt1DFCTRPvl9T1wdOg6yNn2T0zh9r4/view)
+- AWS Cloud Concepts [Certificat](https://www.datacamp.com/completed/statement-of-accomplishment/course/561baa39d08d6a0e7c54f8e467c53004eb70ceba)
+- Agile Project Management [Certificat](https://www.coursera.org/account/accomplishments/verify/E2A9H4UGFQAJ)
+- Google IT Automation with Python [Certificat](https://www.coursera.org/account/accomplishments/professional-cert/QKV85D6GLYWZ)
+- API Test Automation [Certificat](https://badgr.com/public/assertions/1cLI118tSp-3B6kywIXN2A)
+- Introduction to Docker [Certificat](https://www.datacamp.com/statement-of-accomplishment/course/67b8156d5f987955f02b90849636fde3c7c5c68d)
+- «Git для розподіленої розробки програмного забезпечення» [Certificat](https://drive.google.com/file/d/12ZecbgJsN-3660bnRAn3m4-c_Xrr0Ry1/view)
+- IT-підтримка від Google [Certificat](https://www.coursera.org/account/accomplishments/professional-cert/QRZ9RMWNB33V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- «Основи Linux» [Certificat](https://drive.google.com/file/d/1dDMmlycKh0epcRJL9eYSWVqf7we2cfCi/view)
+- Біти і байти комп’ютерної мережі [Certificat](https://www.coursera.org/account/accomplishments/verify/AY8B6JFBXU96?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- Configuration Management and the Cloud [Certificat](https://www.coursera.org/account/accomplishments/verify/4QGPBGNEVGNP?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
 
 # Examples of my work
 ## Test Artifacts
@@ -71,5 +83,3 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - [scripts here](https://github.com/KopchukVolod/Bash/tree/main)
 ## Linux CLI
 - [here](https://github.com/KopchukVolod/Linux-CLI)
-
-
