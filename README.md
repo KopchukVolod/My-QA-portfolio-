@@ -1,5 +1,5 @@
 # My-QA-engineer-portfolio
-[Linkedin](https://www.linkedin.com/in/volodymyr-kopchuk-780620242/)
+[Linkedin](https://www.linkedin.com/in/%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BA%D0%BE%D0%BF%D1%87%D1%83%D0%BA-780620242/)
 
 This repository contains all my practical works, which gave me experience and practical skills for work
 
