@@ -34,6 +34,13 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - AWS Cloud Practitioner Essentials [Certificat](https://drive.google.com/file/d/1dwXt1DFCTRPvl9T1wdOg6yNn2T0zh9r4/view)
 
 # Examples of my work
+## Test Artifacts
+- [check list #1](https://docs.google.com/spreadsheets/d/1ie_6ufwqfQMJP0OCbtPeIj2imBIXPSMC/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+- [check list #2](https://docs.google.com/spreadsheets/d/1PW4cj2cDmHFTgF9AQEjnN-ZwCsTwe0Js/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+- [bug report #1](https://docs.google.com/spreadsheets/d/1PV_LZf7yUnMSo5rvuSBelwgzZBnbulrS/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+- [bug report #2](https://docs.google.com/spreadsheets/d/1zjIr42huj3I45A43tAaDD5jCkHKf41XO/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
+
+
 ## Postman
 - [examples of completed works here](https://drive.google.com/drive/folders/1OU6vZwalojXwBAneGMGEk9K8oWtTezOz?usp=sharing)
 - [freecodecamp-(Valentino Artisan Coffee House API)](https://www.postman.com/bold-escape-534682/workspace/freecodecamp-course-api-from-valentin/collection/21576950-1f5af518-1790-4ef5-bd9b-77e0e8312349)
