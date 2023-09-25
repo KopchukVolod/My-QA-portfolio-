@@ -50,6 +50,8 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 ## SQL
 - [examples of completed works here](https://drive.google.com/drive/folders/1IJU8rOQdiHo11RyeEEN1s6I5rp3_laD-?usp=sharing)
 - here [problems solved](https://drive.google.com/drive/folders/1o7HSwlxpwE3onbk98gthKi-cxLG1Rlel?usp=sharing)
+## Chrome DevTools
+- [examples of completed works here](https://drive.google.com/file/d/1llE3GcvKAZuOkB9hntU2Z9cTyVJrRz-D/view?usp=sharing)
 ## Fidler
 - [examples of completed works here](https://docs.google.com/document/d/19N7Fz6fjfThLNUKE4jKNRfbTX3dbOgEj/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 ## Pairwise Testing (PICT)
