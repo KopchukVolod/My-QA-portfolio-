@@ -50,6 +50,7 @@ Today, I'm  is a  skilled and motivated software tester with a passion for deliv
 - [examples of completed works here](https://docs.google.com/document/d/1yrCMFL3wVUO2y2aQdHd63XdxQFWxfzg9/edit?usp=sharing&ouid=100329667827698906861&rtpof=true&sd=true)
 ## Selenium WebDriver 
 - [examples of completed works here](https://github.com/KopchukVolod/SeleniumWebDriver-on-Python)
+- [project page object model in Selenium Python](https://github.com/KopchukVolod/Test-Automation-with-Selenium-and-Python)
 ## Python
 - [coding here](https://github.com/KopchukVolod?tab=repositories)
 - studying Selenium WebDriver [example environment settings here](https://docs.google.com/document/d/14PIeL63kzK3zGQyxRyMk-fnuUT8h4dohFv3FbB6MX_s/edit?usp=sharing)
