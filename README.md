@@ -6,7 +6,6 @@ This repository contains all my practical works, which gave me experience and pr
 # Courses 
 - Introduction to Software Testing, University of Minnesota, Coursera, July 2022 [Certificat](https://drive.google.com/file/d/1Tvla5WRXl6X1vZX0AdujfccmC-1cDvcM/view?usp=sharing)
 - Tommy University (Quality Assurance/Quality Control Engineer), July 2022 [Certificat](https://drive.google.com/file/d/1WFsgBwZ4GSkhGV89dyjn4FVLUQKbqY4t/view?usp=sharing)
-- Basic course EPAM for beginners "IT Fundamentals", July 2022 [Certificat](https://drive.google.com/file/d/1ZM8MhLdNDMfMjFYTr9xd239xXltDquI1/view?usp=sharing)
 - EPAM, Software Testing Introduction, Course Author: Svyatoslav Kulikov, Feb 2023
 - Software Testing Course Author: Vadim_Ksendzov, Feb 2023 - Oct 2023, [Certificat](https://ksendzov.com/)
 - QA Manual,  GlobalLogic Ukraine,  Feb 2023 [Certificat](https://drive.google.com/file/d/13rNZLUx09XjAfah9U4PA-XO9-We-e_pu/view?usp=sharing)
@@ -43,6 +42,7 @@ This repository contains all my practical works, which gave me experience and pr
 - Intermediate SQL [Certificat](https://www.datacamp.com/completed/statement-of-accomplishment/course/edd03000d79ca35a9ce317bb63a107acba0d1ad9)
 - Using Python to Interact with the Operating System [Certificat](https://www.coursera.org/account/accomplishments/verify/VV6VQ2Y9AUYM?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - Git and GitHub [Certificat](https://www.coursera.org/account/accomplishments/verify/5DTXW5RPBS2W?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- Basic course EPAM for beginners "IT Fundamentals", July 2022 [Certificat](https://drive.google.com/file/d/1ZM8MhLdNDMfMjFYTr9xd239xXltDquI1/view?usp=sharing)
 
 
 
